@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1574152808 source:e:\programming\lab5\main.c
+	<stdio.h>
+	<locale.h>
+
+1574758604 source:f:\programming\lab5\main.c
+	<stdio.h>
+	<locale.h>
+
